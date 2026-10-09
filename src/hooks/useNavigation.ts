@@ -3,7 +3,7 @@ import { getCurrentRoute } from "../routing/routes"
 
 export function navigateTo(path: string): void {
   window.history.pushState({}, "", path)
-  window.dispatchEvent(new PopStateEvent("popstate"))
+  window.dispatchEvent(new Event("popstate"))
   window.scrollTo({ top: 0, behavior: "smooth" })
 }
 
