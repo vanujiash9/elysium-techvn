@@ -4,9 +4,16 @@ import tailwindcss from "@tailwindcss/vite"
 import path from "node:path"
 
 const siteConfiguration = {
+  title: "Elysium - Website & AI Automation",
   description:
     "Elysium builds premium websites, AI tools, chatbots, automation, and CRM dashboards for modern businesses.",
   language: "vi",
+  icons: {
+    icon: "/elysium-logo.svg",
+  },
+  openGraph: {
+    image: "/elysium-logo.svg",
+  },
   robots: {
     index: true,
   },
