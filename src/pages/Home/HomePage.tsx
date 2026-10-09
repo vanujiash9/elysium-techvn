@@ -45,8 +45,7 @@ const homeProductImages: Record<string, string> = {
     "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   "momo-baby-ecommerce":
     "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
-  "real-estate-crm":
-    "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
+  "real-estate-crm": images.realEstateCrm,
   "website-ban-hang-dich-vu":
     "https://images.unsplash.com/photo-1460925895917-afdab827c52f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   "landing-page-thiep-cuoi":
