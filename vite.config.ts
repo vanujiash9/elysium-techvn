@@ -3,7 +3,17 @@ import react from "@vitejs/plugin-react"
 import tailwindcss from "@tailwindcss/vite"
 import path from "node:path"
 
-import siteConfiguration from "./.figma/make/site.json"
+const siteConfiguration = {
+  description:
+    "Elysium builds premium websites, AI tools, chatbots, automation, and CRM dashboards for modern businesses.",
+  language: "vi",
+  robots: {
+    index: true,
+  },
+  accessibility: {
+    addBypassLinks: false,
+  },
+} satisfies FigmaSiteConfiguration
 
 // Vite config — https://vitejs.dev/config/
 export default defineConfig(({ mode }) => {
