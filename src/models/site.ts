@@ -23,6 +23,7 @@ export interface Product {
   livePreviewUrl?: string
   detailIntro?: string
   detailFeatures?: readonly string[]
+  isVisible?: boolean
 }
 
 export interface SocialLink {

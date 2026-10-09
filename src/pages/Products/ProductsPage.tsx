@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { images } from "../../data/images"
-import { products } from "../../data/products"
+import { visibleProducts } from "../../data/products"
 import { Dialog } from "../../components/ui/Dialog"
 import { Arrow } from "../../components/ui/Arrow"
 import { ButtonRow } from "../../components/ui/ButtonRow"
@@ -183,8 +183,8 @@ export default function ProductsPage() {
   ]
   const visible =
     filter === "Tất cả"
-      ? products
-      : products.filter((item) => item.category === filter)
+      ? visibleProducts
+      : visibleProducts.filter((item) => item.category === filter)
   return (
     <main>
       <section className="product-hero page-top">

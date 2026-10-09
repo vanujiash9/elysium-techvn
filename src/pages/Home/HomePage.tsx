@@ -1,7 +1,7 @@
 import { useState } from "react"
 import type { FormEvent } from "react"
 import { images } from "../../data/images"
-import { products } from "../../data/products"
+import { visibleProducts } from "../../data/products"
 import { services } from "../../data/services"
 import { Faq } from "../../components/sections/Faq"
 import { Pricing } from "../../components/sections/Pricing"
@@ -55,6 +55,8 @@ const homeProductImages: Record<string, string> = {
     "https://images.unsplash.com/photo-1519741497674-611481863552?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   "premium-dental-website":
     "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
+  "medi-bot":
+    "https://images.unsplash.com/photo-1576091160550-2173dba999ef?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
 }
 
 function HeroGallery() {
@@ -291,7 +293,7 @@ export default function HomePage() {
             title="Demo rõ ràng. Hình ảnh thật. Hướng triển khai thực tế."
           />
           <div className="home-products">
-            {products.slice(0, 4).map((product, index) => (
+            {visibleProducts.slice(0, 4).map((product, index) => (
               <PageLink
                 to={`/san-pham/${product.slug}`}
                 className={`home-product home-product--${index + 1}`}

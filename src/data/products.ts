@@ -74,6 +74,7 @@ export const products = [
     desc: "CTA rõ hơn, khách dễ xem dịch vụ và gửi yêu cầu nhanh.",
     tags: ["Landing page", "Form lead", "Responsive"],
     image: images.laptop,
+    isVisible: false,
   },
   {
     slug: "landing-page-thiep-cuoi",
@@ -104,12 +105,26 @@ export const products = [
     detailFeatures: ["Booking", "Services", "Doctors", "Reviews"],
   },
   {
+    slug: "medi-bot",
+    title: "Medi Bot",
+    category: "AI Chatbot",
+    desc: "Chatbot y tế hỗ trợ tư vấn dịch vụ, tiếp nhận câu hỏi và điều hướng người dùng đến thông tin phù hợp nhanh chóng.",
+    tags: ["Healthcare", "AI Chatbot", "Assistant"],
+    image: images.mediBot,
+    externalUrl: "https://medi-bot-kappa.vercel.app/",
+    livePreviewUrl: "https://medi-bot-kappa.vercel.app/",
+    detailIntro:
+      "Medi Bot là trải nghiệm chatbot y tế trực tuyến: giao diện thân thiện, luồng hỏi đáp rõ ràng và khả năng hỗ trợ khách hàng tìm thông tin nhanh trước khi liên hệ trực tiếp.",
+    detailFeatures: ["Medical FAQ", "AI assistant", "Lead support", "Responsive"],
+  },
+  {
     slug: "chatbot-tu-van-tu-dong",
     title: "Chatbot tư vấn y tế",
     category: "AI Chatbot",
     desc: "Hỗ trợ giải đáp dịch vụ phòng khám, giới thiệu chuyên khoa, tiếp nhận đặt lịch và chuyển tiếp cho nhân viên.",
     tags: ["Healthcare", "Booking", "FAQ"],
     image: images.abstract,
+    isVisible: false,
   },
   {
     slug: "content-lens",
@@ -127,6 +142,7 @@ export const products = [
     desc: "Output AI có cấu trúc, dễ kiểm tra và bàn giao cho đội nhóm.",
     tags: ["AI workflow", "Dashboard", "Data"],
     image: images.code,
+    isVisible: false,
   },
   {
     slug: "crm-van-hanh",
@@ -135,6 +151,7 @@ export const products = [
     desc: "Theo dõi lead, trạng thái công việc và hiệu suất trên một màn hình.",
     tags: ["CRM", "Reporting", "Team"],
     image: images.workspace,
+    isVisible: false,
   },
   {
     slug: "automation-theo-yeu-cau",
@@ -143,6 +160,7 @@ export const products = [
     desc: "Giảm nhập tay giữa form, sheet, email và thông báo nội bộ.",
     tags: ["Form", "Google Sheets", "Email"],
     image: images.servers,
+    isVisible: false,
   },
   {
     slug: "portfolio-thuong-hieu",
@@ -151,6 +169,7 @@ export const products = [
     desc: "Hệ giao diện giàu hình ảnh giúp thương hiệu mới ra mắt thật khác biệt.",
     tags: ["Brand", "Motion", "CMS"],
     image: images.architecture,
+    isVisible: false,
   },
   {
     slug: "dashboard-phan-tich-kinh-doanh",
@@ -159,6 +178,7 @@ export const products = [
     desc: "Tổng hợp dữ liệu bán hàng và vận hành thành báo cáo dễ theo dõi.",
     tags: ["Analytics", "Realtime", "Reporting"],
     image: images.studio,
+    isVisible: false,
   },
   {
     slug: "website-giao-duc-truc-tuyen",
@@ -167,6 +187,7 @@ export const products = [
     desc: "Website khóa học với hành trình đăng ký và quản lý nội dung tinh gọn.",
     tags: ["Education", "Course", "CMS"],
     image: images.team,
+    isVisible: false,
   },
   {
     slug: "tro-ly-ai-noi-dung",
@@ -175,5 +196,10 @@ export const products = [
     desc: "Chuẩn hóa, phân loại và tạo bản nháp nội dung theo quy trình nội bộ.",
     tags: ["LLM", "Content", "Workflow"],
     image: images.abstract,
+    isVisible: false,
   },
 ] satisfies readonly Product[]
+
+export const visibleProducts = products.filter(
+  (product) => product.isVisible !== false,
+)

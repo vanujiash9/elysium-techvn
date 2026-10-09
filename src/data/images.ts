@@ -55,6 +55,8 @@ export const images = {
   highEndPortfolioShowcase: "/images/high_end_portfolio/Screenshot 2026-10-09 171520.png",
   highEndPortfolioServices: "/images/high_end_portfolio/Screenshot 2026-10-09 171612.png",
   highEndPortfolioContact: "/images/high_end_portfolio/Screenshot 2026-10-09 171635.png",
+  mediBot:
+    "https://images.unsplash.com/photo-1576091160550-2173dba999ef?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
 } as const
 
 export const contentLensImages = [

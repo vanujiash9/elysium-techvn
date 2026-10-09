@@ -1,4 +1,4 @@
-import { products } from "../data/products"
+import { visibleProducts } from "../data/products"
 
 export const ROUTES = {
   home: "/",
@@ -29,7 +29,7 @@ export function getProductSlug(route: string): string | null {
 export function getProductByRoute(route: string) {
   const slug = getProductSlug(route)
   if (!slug) return null
-  return products.find((item) => item.slug === slug) ?? products[0]
+  return visibleProducts.find((item) => item.slug === slug) ?? visibleProducts[0]
 }
 
 export function isActiveRoute(route: string, href: string): boolean {
