@@ -1,0 +1,251 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Elysium." [ref=e5] [cursor=pointer]:
+        - /url: /
+      - button "Mở menu" [ref=e12] [cursor=pointer]
+  - complementary "Liên hệ nhanh" [ref=e15]:
+    - link "Facebook" [ref=e16] [cursor=pointer]:
+      - /url: https://www.facebook.com/profile.php?id=61594988256008
+    - link "Zalo" [ref=e17] [cursor=pointer]:
+      - /url: https://zalo.me/0338994373
+    - link "WhatsApp" [ref=e18] [cursor=pointer]:
+      - /url: https://wa.me/84338994373
+    - link "Gmail" [ref=e19] [cursor=pointer]:
+      - /url: mailto:elysium.techvn@gmail.com
+  - button "Kéo để di chuyển hoặc nhấn để mở trợ lý AI Elysium" [ref=e21]:
+    - generic [ref=e22]: Bạn cần tư vấn?
+    - generic [ref=e29]: ELY AI
+  - main [ref=e31]:
+    - generic [ref=e34]:
+      - paragraph [ref=e35]: Sản phẩm thực tế
+      - heading [level=1] [ref=e36]:
+        - text: Những trải nghiệm số được xây để
+        - emphasis [ref=e37]: vận hành.
+      - paragraph [ref=e38]: Khám phá website, AI tool, chatbot và dashboard qua hình ảnh, luồng demo và câu chuyện triển khai cụ thể.
+      - generic [ref=e39]:
+        - link "Tư vấn miễn phí" [ref=e40] [cursor=pointer]:
+          - /url: /lien-he
+        - link "Xem demo" [ref=e43] [cursor=pointer]:
+          - /url: /san-pham
+    - generic [ref=e46]:
+      - paragraph [ref=e48]: Trải nghiệm sản phẩm trực tiếp
+      - generic [ref=e49]:
+        - article [ref=e50]:
+          - generic [ref=e51]:
+            - generic [ref=e52]: demo.elysium.vn
+            - img "Nền tảng giới thiệu & thu lead" [ref=e57]
+          - paragraph [ref=e58]: Website dịch vụ
+          - heading "Nền tảng giới thiệu & thu lead" [level=3] [ref=e59]
+          - generic [ref=e60]:
+            - button "Mở demo" [ref=e61] [cursor=pointer]
+            - link "Cách triển khai" [ref=e64] [cursor=pointer]:
+              - /url: /san-pham/website-ban-hang-dich-vu
+        - article [ref=e65]:
+          - generic [ref=e66]:
+            - generic [ref=e67]: demo.elysium.vn
+            - img "Không gian vận hành tập trung" [ref=e72]
+          - paragraph [ref=e73]: Dashboard / CRM
+          - heading "Không gian vận hành tập trung" [level=3] [ref=e74]
+          - generic [ref=e75]:
+            - button "Mở demo" [ref=e76] [cursor=pointer]
+            - link "Cách triển khai" [ref=e79] [cursor=pointer]:
+              - /url: /san-pham/crm-van-hanh
+        - article [ref=e80]:
+          - generic [ref=e81]:
+            - generic [ref=e82]: demo.elysium.vn
+            - img "Trải nghiệm mua hàng tinh gọn" [ref=e87]
+          - paragraph [ref=e88]: Website bán hàng
+          - heading "Trải nghiệm mua hàng tinh gọn" [level=3] [ref=e89]
+          - generic [ref=e90]:
+            - button "Mở demo" [ref=e91] [cursor=pointer]
+            - link "Cách triển khai" [ref=e94] [cursor=pointer]:
+              - /url: /san-pham/portfolio-thuong-hieu
+    - generic [ref=e96]:
+      - generic [ref=e97]:
+        - button "Tất cả" [ref=e98] [cursor=pointer]
+        - button "Website" [ref=e99] [cursor=pointer]
+        - button "AI Tool" [ref=e100] [cursor=pointer]
+        - button "AI Chatbot" [ref=e101] [cursor=pointer]
+        - button "Automation" [ref=e102] [cursor=pointer]
+        - button "Dashboard / CRM" [ref=e103] [cursor=pointer]
+      - generic [ref=e104]:
+        - article [ref=e105]:
+          - generic [ref=e106]:
+            - img "Website bán hàng & dịch vụ" [ref=e107]
+            - generic [ref=e108]: Selected work
+          - paragraph [ref=e109]: Website
+          - heading "Website bán hàng & dịch vụ" [level=2] [ref=e110]
+          - paragraph [ref=e111]: CTA rõ hơn, khách dễ xem dịch vụ và gửi yêu cầu nhanh.
+          - generic [ref=e112]:
+            - generic [ref=e113]: Landing page
+            - generic [ref=e114]: Form lead
+            - generic [ref=e115]: Responsive
+          - link "Xem case study & demo" [ref=e116] [cursor=pointer]:
+            - /url: /san-pham/website-ban-hang-dich-vu
+        - article [ref=e119]:
+          - generic [ref=e120]:
+            - img "Chatbot tư vấn y tế" [ref=e121]
+            - generic [ref=e122]: Selected work
+          - paragraph [ref=e123]: AI Chatbot
+          - heading "Chatbot tư vấn y tế" [level=2] [ref=e124]
+          - paragraph [ref=e125]: Hỗ trợ giải đáp dịch vụ phòng khám, giới thiệu chuyên khoa, tiếp nhận đặt lịch và chuyển tiếp cho nhân viên.
+          - generic [ref=e126]:
+            - generic [ref=e127]: Healthcare
+            - generic [ref=e128]: Booking
+            - generic [ref=e129]: FAQ
+          - link "Xem case study & demo" [ref=e130] [cursor=pointer]:
+            - /url: /san-pham/chatbot-tu-van-tu-dong
+        - article [ref=e133]:
+          - generic [ref=e134]:
+            - img "ContentLens" [ref=e135]
+            - generic [ref=e136]: Selected work
+          - paragraph [ref=e137]: AI Tool
+          - heading "ContentLens" [level=2] [ref=e138]
+          - paragraph [ref=e139]: Phân tích, chuẩn hóa và tối ưu nội dung bằng AI trong một giao diện tập trung.
+          - generic [ref=e140]:
+            - generic [ref=e141]: Content AI
+            - generic [ref=e142]: Analysis
+            - generic [ref=e143]: Workflow
+          - link "Xem case study & demo" [ref=e144] [cursor=pointer]:
+            - /url: /san-pham/content-lens
+        - article [ref=e147]:
+          - generic [ref=e148]:
+            - img "AI tool cho quy trình nội bộ" [ref=e149]
+            - generic [ref=e150]: Selected work
+          - paragraph [ref=e151]: AI Tool
+          - heading "AI tool cho quy trình nội bộ" [level=2] [ref=e152]
+          - paragraph [ref=e153]: Output AI có cấu trúc, dễ kiểm tra và bàn giao cho đội nhóm.
+          - generic [ref=e154]:
+            - generic [ref=e155]: AI workflow
+            - generic [ref=e156]: Dashboard
+            - generic [ref=e157]: Data
+          - link "Xem case study & demo" [ref=e158] [cursor=pointer]:
+            - /url: /san-pham/ai-tool-noi-bo
+        - article [ref=e161]:
+          - generic [ref=e162]:
+            - img "CRM vận hành tinh gọn" [ref=e163]
+            - generic [ref=e164]: Selected work
+          - paragraph [ref=e165]: Dashboard / CRM
+          - heading "CRM vận hành tinh gọn" [level=2] [ref=e166]
+          - paragraph [ref=e167]: Theo dõi lead, trạng thái công việc và hiệu suất trên một màn hình.
+          - generic [ref=e168]:
+            - generic [ref=e169]: CRM
+            - generic [ref=e170]: Reporting
+            - generic [ref=e171]: Team
+          - link "Xem case study & demo" [ref=e172] [cursor=pointer]:
+            - /url: /san-pham/crm-van-hanh
+        - article [ref=e175]:
+          - generic [ref=e176]:
+            - img "Automation theo yêu cầu" [ref=e177]
+            - generic [ref=e178]: Selected work
+          - paragraph [ref=e179]: Automation
+          - heading "Automation theo yêu cầu" [level=2] [ref=e180]
+          - paragraph [ref=e181]: Giảm nhập tay giữa form, sheet, email và thông báo nội bộ.
+          - generic [ref=e182]:
+            - generic [ref=e183]: Form
+            - generic [ref=e184]: Google Sheets
+            - generic [ref=e185]: Email
+          - link "Xem case study & demo" [ref=e186] [cursor=pointer]:
+            - /url: /san-pham/automation-theo-yeu-cau
+        - article [ref=e189]:
+          - generic [ref=e190]:
+            - img "Portfolio thương hiệu" [ref=e191]
+            - generic [ref=e192]: Selected work
+          - paragraph [ref=e193]: Website
+          - heading "Portfolio thương hiệu" [level=2] [ref=e194]
+          - paragraph [ref=e195]: Hệ giao diện giàu hình ảnh giúp thương hiệu mới ra mắt thật khác biệt.
+          - generic [ref=e196]:
+            - generic [ref=e197]: Brand
+            - generic [ref=e198]: Motion
+            - generic [ref=e199]: CMS
+          - link "Xem case study & demo" [ref=e200] [cursor=pointer]:
+            - /url: /san-pham/portfolio-thuong-hieu
+        - article [ref=e203]:
+          - generic [ref=e204]:
+            - img "Dashboard phân tích kinh doanh" [ref=e205]
+            - generic [ref=e206]: Selected work
+          - paragraph [ref=e207]: Dashboard / CRM
+          - heading "Dashboard phân tích kinh doanh" [level=2] [ref=e208]
+          - paragraph [ref=e209]: Tổng hợp dữ liệu bán hàng và vận hành thành báo cáo dễ theo dõi.
+          - generic [ref=e210]:
+            - generic [ref=e211]: Analytics
+            - generic [ref=e212]: Realtime
+            - generic [ref=e213]: Reporting
+          - link "Xem case study & demo" [ref=e214] [cursor=pointer]:
+            - /url: /san-pham/dashboard-phan-tich-kinh-doanh
+        - article [ref=e217]:
+          - generic [ref=e218]:
+            - img "Nền tảng giáo dục trực tuyến" [ref=e219]
+            - generic [ref=e220]: Selected work
+          - paragraph [ref=e221]: Website
+          - heading "Nền tảng giáo dục trực tuyến" [level=2] [ref=e222]
+          - paragraph [ref=e223]: Website khóa học với hành trình đăng ký và quản lý nội dung tinh gọn.
+          - generic [ref=e224]:
+            - generic [ref=e225]: Education
+            - generic [ref=e226]: Course
+            - generic [ref=e227]: CMS
+          - link "Xem case study & demo" [ref=e228] [cursor=pointer]:
+            - /url: /san-pham/website-giao-duc-truc-tuyen
+        - article [ref=e231]:
+          - generic [ref=e232]:
+            - img "Trợ lý AI xử lý nội dung" [ref=e233]
+            - generic [ref=e234]: Selected work
+          - paragraph [ref=e235]: AI Tool
+          - heading "Trợ lý AI xử lý nội dung" [level=2] [ref=e236]
+          - paragraph [ref=e237]: Chuẩn hóa, phân loại và tạo bản nháp nội dung theo quy trình nội bộ.
+          - generic [ref=e238]:
+            - generic [ref=e239]: LLM
+            - generic [ref=e240]: Content
+            - generic [ref=e241]: Workflow
+          - link "Xem case study & demo" [ref=e242] [cursor=pointer]:
+            - /url: /san-pham/tro-ly-ai-noi-dung
+  - contentinfo [ref=e245]:
+    - generic [ref=e246]:
+      - generic [ref=e247]:
+        - generic [ref=e248]:
+          - link "Elysium." [ref=e249] [cursor=pointer]:
+            - /url: /
+          - paragraph [ref=e256]: Thiết kế Website & AI, chatbot và automation theo yêu cầu cho cá nhân, cửa hàng và doanh nghiệp.
+          - generic [ref=e257]:
+            - link "Facebook" [ref=e258] [cursor=pointer]:
+              - /url: https://www.facebook.com/profile.php?id=61594988256008
+            - link "Zalo" [ref=e259] [cursor=pointer]:
+              - /url: https://zalo.me/0338994373
+            - link "WhatsApp" [ref=e260] [cursor=pointer]:
+              - /url: https://wa.me/84338994373
+            - link "Gmail" [ref=e261] [cursor=pointer]:
+              - /url: mailto:elysium.techvn@gmail.com
+        - generic [ref=e262]:
+          - paragraph [ref=e263]: Dịch vụ
+          - link "Thiết kế Website" [ref=e264] [cursor=pointer]:
+            - /url: /dich-vu
+          - link "AI Tool theo yêu cầu" [ref=e265] [cursor=pointer]:
+            - /url: /dich-vu
+          - link "Chatbot tư vấn" [ref=e266] [cursor=pointer]:
+            - /url: /dich-vu
+          - link "Automation vận hành" [ref=e267] [cursor=pointer]:
+            - /url: /dich-vu
+          - link "Hỗ trợ đồ án CNTT" [ref=e268] [cursor=pointer]:
+            - /url: /dich-vu
+          - link "Giải pháp cho shop" [ref=e269] [cursor=pointer]:
+            - /url: /dich-vu
+        - generic [ref=e270]:
+          - paragraph [ref=e271]: Liên kết
+          - link "Dự án mẫu" [ref=e272] [cursor=pointer]:
+            - /url: /san-pham
+          - link "Gói dịch vụ" [ref=e273] [cursor=pointer]:
+            - /url: /
+          - link "Góc chia sẻ" [ref=e274] [cursor=pointer]:
+            - /url: /
+          - link "Liên hệ" [ref=e275] [cursor=pointer]:
+            - /url: /lien-he
+        - generic [ref=e276]:
+          - paragraph [ref=e277]: Tư vấn nhanh
+          - link "0338 994 373" [ref=e278] [cursor=pointer]:
+            - /url: tel:0338994373
+          - link "elysium.techvn@gmail.com" [ref=e279] [cursor=pointer]:
+            - /url: mailto:elysium.techvn@gmail.com
+      - generic [ref=e280]:
+        - generic [ref=e281]: © 2026 Elysium - Thiết kế Website & AI.
+        - generic [ref=e282]: All rights reserved.

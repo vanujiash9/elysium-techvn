@@ -1,0 +1,180 @@
+- generic [ref=f4e2]:
+  - banner [ref=f4e3]:
+    - generic [ref=f4e4]:
+      - link "Elysium." [ref=f4e5] [cursor=pointer]:
+        - /url: /
+      - button "Mở menu" [ref=f4e12] [cursor=pointer]
+  - complementary "Liên hệ nhanh" [ref=f4e15]:
+    - link "Facebook" [ref=f4e16] [cursor=pointer]:
+      - /url: https://www.facebook.com/profile.php?id=61594988256008
+    - link "Zalo" [ref=f4e17] [cursor=pointer]:
+      - /url: https://zalo.me/0338994373
+    - link "WhatsApp" [ref=f4e18] [cursor=pointer]:
+      - /url: https://wa.me/84338994373
+    - link "Gmail" [ref=f4e19] [cursor=pointer]:
+      - /url: mailto:elysium.techvn@gmail.com
+  - button "Kéo để di chuyển hoặc nhấn để mở trợ lý AI Elysium" [ref=f4e21]:
+    - generic [ref=f4e22]: Bạn cần tư vấn?
+    - generic [ref=f4e29]: ELY AI
+  - main [ref=f4e31]:
+    - generic [ref=f4e33]:
+      - generic [ref=f4e34]:
+        - generic [ref=f4e35]:
+          - figure [ref=f4e36]:
+            - img "ContentLens — giao diện 1" [ref=f4e37]
+            - generic [ref=f4e38]: "01"
+          - figure [ref=f4e39]:
+            - img "ContentLens — giao diện 2" [ref=f4e40]
+            - generic [ref=f4e41]: "02"
+          - figure [ref=f4e42]:
+            - img "ContentLens — giao diện 3" [ref=f4e43]
+            - generic [ref=f4e44]: "03"
+          - figure [ref=f4e45]:
+            - img "ContentLens — giao diện 4" [ref=f4e46]
+            - generic [ref=f4e47]: "04"
+          - figure [ref=f4e48]:
+            - img "ContentLens — giao diện 5" [ref=f4e49]
+            - generic [ref=f4e50]: "05"
+          - figure [ref=f4e51]:
+            - img "ContentLens — giao diện 6" [ref=f4e52]
+            - generic [ref=f4e53]: "06"
+          - figure [ref=f4e54]:
+            - img "ContentLens — giao diện 7" [ref=f4e55]
+            - generic [ref=f4e56]: "07"
+        - generic [ref=f4e57]:
+          - generic [ref=f4e58]:
+            - button [ref=f4e59] [cursor=pointer]:
+              - img "Xem ảnh 1" [ref=f4e60]
+            - button [ref=f4e61] [cursor=pointer]:
+              - img "Xem ảnh 2" [ref=f4e62]
+            - button [ref=f4e63] [cursor=pointer]:
+              - img "Xem ảnh 3" [ref=f4e64]
+            - button [ref=f4e65] [cursor=pointer]:
+              - img "Xem ảnh 4" [ref=f4e66]
+            - button [ref=f4e67] [cursor=pointer]:
+              - img "Xem ảnh 5" [ref=f4e68]
+            - button [ref=f4e69] [cursor=pointer]:
+              - img "Xem ảnh 6" [ref=f4e70]
+            - button [ref=f4e71] [cursor=pointer]:
+              - img "Xem ảnh 7" [ref=f4e72]
+          - generic [ref=f4e73]:
+            - button "Ảnh trước" [ref=f4e74] [cursor=pointer]: ←
+            - button "Ảnh tiếp theo" [ref=f4e75] [cursor=pointer]: →
+      - complementary [ref=f4e76]:
+        - button "← Quay lại sản phẩm" [ref=f4e77] [cursor=pointer]
+        - paragraph [ref=f4e78]: AI Tool · Selected work
+        - heading "ContentLens" [level=1] [ref=f4e79]
+        - paragraph [ref=f4e80]: Phân tích, chuẩn hóa và tối ưu nội dung bằng AI trong một giao diện tập trung. Giải pháp được thiết kế theo quy trình thật, có thể demo sớm và phát triển theo từng giai đoạn.
+        - generic [ref=f4e81]:
+          - generic [ref=f4e82]: Content AI
+          - generic [ref=f4e83]: Analysis
+          - generic [ref=f4e84]: Workflow
+        - generic [ref=f4e85]:
+          - generic [ref=f4e86]:
+            - term [ref=f4e87]: Thời gian triển khai
+            - definition [ref=f4e88]: 4–6 tuần
+          - generic [ref=f4e89]:
+            - term [ref=f4e90]: Phạm vi
+            - definition [ref=f4e91]: UX/UI · Development
+          - generic [ref=f4e92]:
+            - term [ref=f4e93]: Bàn giao
+            - definition [ref=f4e94]: Source · Tài liệu · Training
+        - button "Yêu cầu demo dự án →" [ref=f4e95] [cursor=pointer]
+        - link "Trao đổi nhanh qua Zalo" [ref=f4e96] [cursor=pointer]:
+          - /url: https://zalo.me/0338994373
+    - generic [ref=f4e97]:
+      - generic [ref=f4e98]:
+        - generic [ref=f4e99]:
+          - paragraph [ref=f4e100]: Live product demo
+          - heading "Thử giao diện ngay trên trang." [level=2] [ref=f4e101]
+        - generic [ref=f4e102]:
+          - button "desktop" [ref=f4e103] [cursor=pointer]
+          - button "tablet" [ref=f4e104] [cursor=pointer]
+          - button "mobile" [ref=f4e105] [cursor=pointer]
+      - generic [ref=f4e107]:
+        - generic [ref=f4e108]: preview.elysium.vn
+        - generic [ref=f4e113]:
+          - navigation [ref=f4e114]:
+            - strong [ref=f4e115]: E.
+            - button "Tổng quan" [ref=f4e116] [cursor=pointer]
+            - button "Khách hàng" [ref=f4e117] [cursor=pointer]
+            - button "Báo cáo" [ref=f4e118] [cursor=pointer]
+          - generic [ref=f4e119]:
+            - generic [ref=f4e120]:
+              - generic [ref=f4e121]:
+                - text: Không gian làm việc
+                - heading "Tổng quan" [level=3] [ref=f4e122]
+              - button "+ Tạo mới" [ref=f4e123] [cursor=pointer]
+            - generic [ref=f4e124]:
+              - article [ref=f4e125]:
+                - generic [ref=f4e126]: Khách hàng mới
+                - strong [ref=f4e127]: "128"
+                - generic [ref=f4e128]: +18.4%
+              - article [ref=f4e129]:
+                - generic [ref=f4e130]: Đang xử lý
+                - strong [ref=f4e131]: "36"
+                - generic [ref=f4e132]: Hôm nay
+              - article [ref=f4e133]:
+                - generic [ref=f4e134]: Hoàn thành
+                - strong [ref=f4e135]: 94%
+                - generic [ref=f4e136]: Tháng này
+    - generic [ref=f4e146]:
+      - generic [ref=f4e147]:
+        - paragraph [ref=f4e148]: Before / After
+        - heading "Kéo để xem trải nghiệm thay đổi." [level=2] [ref=f4e149]
+      - generic [ref=f4e150]:
+        - img "Giao diện sau khi thiết kế lại" [ref=f4e151]
+        - img "Giao diện trước khi thiết kế lại" [ref=f4e153]
+        - generic [ref=f4e154]: Trước
+        - generic [ref=f4e155]: Sau
+        - generic [ref=f4e156]: ↔
+        - slider "So sánh giao diện trước và sau" [ref=f4e157]: "52"
+  - contentinfo [ref=f4e158]:
+    - generic [ref=f4e159]:
+      - generic [ref=f4e160]:
+        - generic [ref=f4e161]:
+          - link "Elysium." [ref=f4e162] [cursor=pointer]:
+            - /url: /
+          - paragraph [ref=f4e169]: Thiết kế Website & AI, chatbot và automation theo yêu cầu cho cá nhân, cửa hàng và doanh nghiệp.
+          - generic [ref=f4e170]:
+            - link "Facebook" [ref=f4e171] [cursor=pointer]:
+              - /url: https://www.facebook.com/profile.php?id=61594988256008
+            - link "Zalo" [ref=f4e172] [cursor=pointer]:
+              - /url: https://zalo.me/0338994373
+            - link "WhatsApp" [ref=f4e173] [cursor=pointer]:
+              - /url: https://wa.me/84338994373
+            - link "Gmail" [ref=f4e174] [cursor=pointer]:
+              - /url: mailto:elysium.techvn@gmail.com
+        - generic [ref=f4e175]:
+          - paragraph [ref=f4e176]: Dịch vụ
+          - link "Thiết kế Website" [ref=f4e177] [cursor=pointer]:
+            - /url: /dich-vu
+          - link "AI Tool theo yêu cầu" [ref=f4e178] [cursor=pointer]:
+            - /url: /dich-vu
+          - link "Chatbot tư vấn" [ref=f4e179] [cursor=pointer]:
+            - /url: /dich-vu
+          - link "Automation vận hành" [ref=f4e180] [cursor=pointer]:
+            - /url: /dich-vu
+          - link "Hỗ trợ đồ án CNTT" [ref=f4e181] [cursor=pointer]:
+            - /url: /dich-vu
+          - link "Giải pháp cho shop" [ref=f4e182] [cursor=pointer]:
+            - /url: /dich-vu
+        - generic [ref=f4e183]:
+          - paragraph [ref=f4e184]: Liên kết
+          - link "Dự án mẫu" [ref=f4e185] [cursor=pointer]:
+            - /url: /san-pham
+          - link "Gói dịch vụ" [ref=f4e186] [cursor=pointer]:
+            - /url: /
+          - link "Góc chia sẻ" [ref=f4e187] [cursor=pointer]:
+            - /url: /
+          - link "Liên hệ" [ref=f4e188] [cursor=pointer]:
+            - /url: /lien-he
+        - generic [ref=f4e189]:
+          - paragraph [ref=f4e190]: Tư vấn nhanh
+          - link "0338 994 373" [ref=f4e191] [cursor=pointer]:
+            - /url: tel:0338994373
+          - link "elysium.techvn@gmail.com" [ref=f4e192] [cursor=pointer]:
+            - /url: mailto:elysium.techvn@gmail.com
+      - generic [ref=f4e193]:
+        - generic [ref=f4e194]: © 2026 Elysium - Thiết kế Website & AI.
+        - generic [ref=f4e195]: All rights reserved.
