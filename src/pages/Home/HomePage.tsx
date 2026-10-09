@@ -48,7 +48,7 @@ const homeProductImages: Record<string, string> = {
   "real-estate-crm":
     "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   "high-end-portfolio":
-    "https://images.unsplash.com/photo-1497366754035-f200968a6e72?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
+    "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   "website-ban-hang-dich-vu":
     "https://images.unsplash.com/photo-1460925895917-afdab827c52f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   "landing-page-thiep-cuoi":
