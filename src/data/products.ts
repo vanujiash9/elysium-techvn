@@ -5,6 +5,7 @@ import {
   dentalWebsiteImages,
   highEndPortfolioImages,
   images,
+  mediBotImages,
   momoBabyImages,
   realEstateCrmImages,
   weddingInvitationImages,
@@ -111,6 +112,7 @@ export const products = [
     desc: "Chatbot y tế hỗ trợ tư vấn dịch vụ, tiếp nhận câu hỏi và điều hướng người dùng đến thông tin phù hợp nhanh chóng.",
     tags: ["Healthcare", "AI Chatbot", "Assistant"],
     image: images.mediBot,
+    galleryImages: mediBotImages,
     externalUrl: "https://medi-bot-kappa.vercel.app/",
     livePreviewUrl: "https://medi-bot-kappa.vercel.app/",
     detailIntro:

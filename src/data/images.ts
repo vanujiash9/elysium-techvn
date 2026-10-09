@@ -55,8 +55,9 @@ export const images = {
   highEndPortfolioShowcase: "/images/high_end_portfolio/Screenshot 2026-10-09 171520.png",
   highEndPortfolioServices: "/images/high_end_portfolio/Screenshot 2026-10-09 171612.png",
   highEndPortfolioContact: "/images/high_end_portfolio/Screenshot 2026-10-09 171635.png",
-  mediBot:
-    "https://images.unsplash.com/photo-1576091160550-2173dba999ef?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
+  mediBot: "/images/medi_bot/Screenshot 2026-10-09 181235.png",
+  mediBotChat: "/images/medi_bot/Screenshot 2026-10-09 181245.png",
+  mediBotFlow: "/images/medi_bot/Screenshot 2026-10-09 181254.png",
 } as const
 
 export const contentLensImages = [
@@ -112,6 +113,12 @@ export const highEndPortfolioImages = [
   images.highEndPortfolioShowcase,
   images.highEndPortfolioServices,
   images.highEndPortfolioContact,
+] as const
+
+export const mediBotImages = [
+  images.mediBot,
+  images.mediBotChat,
+  images.mediBotFlow,
 ] as const
 
 export type ImageKey = keyof typeof images
