@@ -13,7 +13,7 @@ export const SOCIALS = [
   },
   {
     label: "WhatsApp",
-    href: "https://wa.me/84338994373",
+    href: "https://wa.me/84396808020",
     icon: "https://cdn.simpleicons.org/whatsapp/25D366",
   },
   {
