@@ -75,6 +75,6 @@
 @media (max-width: 560px) {
   .product-showcase { padding-top: 20px; }.product-gallery__controls { align-items: stretch; }.product-thumbs button { width: 58px; height: 48px; }.gallery-arrows button { width: 42px; }
   .interactive-product, .live-preview-section { padding: 75px 0; }.interactive-product__head { align-items: flex-start; flex-direction: column; }.demo-stage { min-height: 510px; width: 100%; }.demo-device--desktop,.demo-device--tablet { width: 680px; transform: scale(.43); }.demo-device--mobile { width: min(320px, calc(100vw - 40px)); }.comparison-frame { width: 100%; min-height: 360px; }
-  .live-preview__features { grid-template-columns: 1fr; }.live-preview__frame iframe { height: 640px; min-height: 640px; }
+  .live-preview__features { grid-template-columns: 1fr; }.live-preview__frame iframe { height: min(72vh, 640px); min-height: 420px; }
   .health-chat-demo { padding: 75px 0; }.health-chat-questions { grid-template-columns: 1fr; }
 }
