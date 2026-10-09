@@ -1,4 +1,5 @@
 import { useEffect, useRef } from "react"
+import { createPortal } from "react-dom"
 import type { ReactNode } from "react"
 import { useBodyScrollLock } from "../../hooks/useBodyScrollLock"
 
@@ -79,7 +80,7 @@ export function Dialog({
     }
   }
 
-  return (
+  return createPortal(
     <div
       className={className}
       role="dialog"
@@ -97,6 +98,7 @@ export function Dialog({
       <div className="demo-modal__panel" ref={panelRef} tabIndex={-1}>
         {children}
       </div>
-    </div>
+    </div>,
+    document.body,
   )
 }
