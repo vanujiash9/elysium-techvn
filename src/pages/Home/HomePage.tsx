@@ -18,10 +18,10 @@ function Counter({ value }: { value: number }) {
 
 function Kpis() {
   const kpis = [
-    [3500, "Khách hàng hài lòng"],
-    [1500, "Dự án hoàn thành"],
-    [40, "Thành viên"],
-    [9, "Năm kinh nghiệm"],
+    [1000, "Khách hàng hài lòng"],
+    [52, "Dự án hoàn thành"],
+    [20, "Thành viên"],
+    [8, "Năm kinh nghiệm"],
   ] as const
   return (
     <section className="kpis">
