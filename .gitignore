@@ -19,4 +19,17 @@ logs/
 # beside it.
 /.plugins/
 /.opencode-skills/
-/.claude/worktrees/
+
+# Local AI/tooling state, not website source
+/.claude/
+/.specify/
+/docs/
+/.figma/
+/.playwright-mcp/
+/.mcp.json
+
+# Temporary review screenshots
+/content-lens-card-cropped-badge.png
+/content-lens-detail-screenshot-ratio.png
+/content-lens-gallery-fit.png
+/products-grid-screenshot-ratio.png
