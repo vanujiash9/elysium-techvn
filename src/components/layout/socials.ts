@@ -8,7 +8,7 @@ export const SOCIALS = [
   },
   {
     label: "Zalo",
-    href: "https://zalo.me/0338994373",
+    href: "https://zalo.me/0396808020",
     icon: "https://cdn.simpleicons.org/zalo/0068FF",
   },
   {

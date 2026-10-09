@@ -152,7 +152,7 @@ export default function ProductDetailPage({ product }: { product: Product }) {
             )}
             <a
               className="product-secondary"
-              href="https://zalo.me/0338994373"
+              href="https://zalo.me/0396808020"
               target="_blank"
               rel="noreferrer"
             >

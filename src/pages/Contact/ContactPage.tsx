@@ -18,9 +18,9 @@ export default function ContactPage() {
                 <span>Email</span>
                 <strong>elysium.techvn@gmail.com</strong>
               </a>
-              <a href="tel:0338994373">
+              <a href="tel:0396808020">
                 <span>Điện thoại / Zalo</span>
-                <strong>0338 994 373</strong>
+                <strong>0396 808 020</strong>
               </a>
               <div>
                 <span>Phản hồi</span>
@@ -46,7 +46,7 @@ export default function ContactPage() {
                 required
                 name="phone"
                 type="tel"
-                placeholder="0338 994 373"
+                placeholder="0396 808 020"
               />
             </label>
             <label>
@@ -82,7 +82,7 @@ export default function ContactPage() {
             </button>
             <a
               className="zalo-button"
-              href="https://zalo.me/0338994373"
+              href="https://zalo.me/0396808020"
               target="_blank"
               rel="noreferrer"
             >

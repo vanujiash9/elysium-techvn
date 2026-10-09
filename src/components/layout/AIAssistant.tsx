@@ -89,21 +89,21 @@ export function AIAssistant() {
           <p>Bạn đang quan tâm đến website, AI tool hay automation?</p>
           <div className="ai-chat__options">
             <a
-              href="https://zalo.me/0338994373"
+              href="https://zalo.me/0396808020"
               target="_blank"
               rel="noreferrer"
             >
               Thiết kế website
             </a>
             <a
-              href="https://zalo.me/0338994373"
+              href="https://zalo.me/0396808020"
               target="_blank"
               rel="noreferrer"
             >
               AI Tool & Chatbot
             </a>
             <a
-              href="https://zalo.me/0338994373"
+              href="https://zalo.me/0396808020"
               target="_blank"
               rel="noreferrer"
             >
@@ -113,7 +113,7 @@ export function AIAssistant() {
         </div>
         <a
           className="ai-chat__cta"
-          href="https://zalo.me/0338994373"
+          href="https://zalo.me/0396808020"
           target="_blank"
           rel="noreferrer"
         >

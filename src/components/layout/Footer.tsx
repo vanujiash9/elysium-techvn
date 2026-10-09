@@ -51,7 +51,7 @@ export function Footer() {
           </div>
           <div className="footer-contact">
             <p className="footer-title">Tư vấn nhanh</p>
-            <a href="tel:0338994373">0338 994 373</a>
+            <a href="tel:0396808020">0396 808 020</a>
             <a href="mailto:elysium.techvn@gmail.com">
               elysium.techvn@gmail.com
             </a>
@@ -90,7 +90,7 @@ export function Footer() {
               Liên hệ <span>+</span>
             </summary>
             <div>
-              <a href="tel:0338994373">0338 994 373</a>
+              <a href="tel:0396808020">0396 808 020</a>
               <a href="mailto:elysium.techvn@gmail.com">
                 elysium.techvn@gmail.com
               </a>

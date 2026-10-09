@@ -33,7 +33,7 @@ export function Header({ route }: HeaderProps) {
           <div className="header-actions">
             <a
               className="quick-contact"
-              href="https://zalo.me/0338994373"
+              href="https://zalo.me/0396808020"
               target="_blank"
               rel="noreferrer"
             >
@@ -73,8 +73,8 @@ export function Header({ route }: HeaderProps) {
             </PageLink>
           ))}
         </nav>
-        <a className="mobile-call" href="tel:0338994373">
-          Gọi 0338 994 373
+        <a className="mobile-call" href="tel:0396808020">
+          Gọi 0396 808 020
         </a>
       </div>
     </>
