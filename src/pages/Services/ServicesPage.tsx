@@ -22,8 +22,8 @@ export default function ServicesPage() {
           </div>
           <div className="service-orbit">
             <img
-              src={images.team}
-              alt="Đội ngũ sản phẩm đang trao đổi giải pháp website và AI"
+              src={images.heroAutomation}
+              alt="Dashboard dữ liệu đại diện cho hệ thống website, AI và automation"
             />
             {services.slice(0, 5).map((service, index) => (
               <span className={`orbit orbit--${index + 1}`} key={service.code}>

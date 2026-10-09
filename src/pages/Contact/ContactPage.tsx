@@ -28,8 +28,8 @@ export default function ContactPage() {
               </div>
             </div>
             <img
-              src={images.architecture}
-              alt="Kiến trúc hiện đại đại diện cho tư duy hệ thống của Elysium"
+              src={images.heroContact}
+              alt="Không gian studio cao cấp đại diện cho cách Elysium tiếp nhận dự án"
             />
           </div>
           <form className="contact-form" method="POST" onSubmit={sendMail}>

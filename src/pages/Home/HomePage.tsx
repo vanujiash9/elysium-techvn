@@ -57,11 +57,11 @@ const homeProductImages: Record<string, string> = {
 
 function HeroGallery() {
   const slides = [
-    [images.code, "Dashboard & CRM", "Hệ thống vận hành"],
-    [images.laptop, "Website thương hiệu", "Rõ CTA · dễ đo lường"],
-    [images.abstract, "Chatbot tư vấn", "Phản hồi tức thì"],
-    [images.servers, "Automation", "Luồng dữ liệu liền mạch"],
-    [images.studio, "AI Tool", "Thiết kế theo quy trình"],
+    [images.heroAiStudio, "AI Studio", "Không gian công nghệ cao cấp"],
+    [images.heroProductShowcase, "Website flagship", "Giao diện sắc nét · rõ CTA"],
+    [images.heroAutomation, "Dashboard & CRM", "Dữ liệu vận hành tập trung"],
+    [images.servers, "Automation", "Luồng hệ thống liền mạch"],
+    [images.workspace, "Digital product", "Từ ý tưởng đến bản chạy thật"],
   ]
   return (
     <div className="hero-gallery">

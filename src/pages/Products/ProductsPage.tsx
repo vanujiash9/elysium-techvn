@@ -202,11 +202,11 @@ export default function ProductsPage() {
           </div>
           <div className="product-marquee">
             {[
-              images.code,
-              images.abstract,
+              images.heroProductShowcase,
+              images.heroAiStudio,
               images.laptop,
               images.workspace,
-              images.servers,
+              images.heroAutomation,
             ].map((src, index) => (
               <img src={src} alt="" key={index} />
             ))}

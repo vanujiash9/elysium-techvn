@@ -1,18 +1,26 @@
 export const images = {
   studio:
-    "https://images.unsplash.com/photo-1623479322729-28b25c16b011?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=85&w=1600",
-  code: "https://images.unsplash.com/photo-1630514969818-94aefc42ec47?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=85&w=1400",
+    "https://images.unsplash.com/photo-1497366754035-f200968a6e72?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
+  code: "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   workspace:
-    "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=85&w=1400",
+    "https://images.unsplash.com/photo-1497366811353-6870744d04b2?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   laptop:
-    "https://images.unsplash.com/photo-1525373698358-041e3a460346?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=85&w=1400",
+    "https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   servers:
-    "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=85&w=1400",
+    "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   abstract:
-    "https://images.unsplash.com/photo-1536924491042-b0466800ce46?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=85&w=1400",
+    "https://images.unsplash.com/photo-1519608487953-e999c86e7455?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   architecture:
-    "https://images.unsplash.com/photo-1569258592171-357ea26da4df?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=85&w=1400",
-  team: "https://images.unsplash.com/photo-1746712241490-869f5352b1fb?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=85&w=1400",
+    "https://images.unsplash.com/photo-1497366216548-37526070297c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
+  team: "https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
+  heroAiStudio:
+    "https://images.unsplash.com/photo-1535223289827-42f1e9919769?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
+  heroProductShowcase:
+    "https://images.unsplash.com/photo-1551650975-87deedd944c3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
+  heroAutomation:
+    "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
+  heroContact:
+    "https://images.unsplash.com/photo-1497366754035-f200968a6e72?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=90&w=1800",
   contentLensDashboard: "/images/content_lens/ContentLens – Piano Research project cover.png",
   contentLensAvt: "/images/content_lens/Screenshot 2026-10-09 133417.png",
   contentLensBrief: "/images/content_lens/Screenshot 2026-10-09 133821.png",
